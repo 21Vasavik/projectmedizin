@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://victorious-moss-080f59b00.2.azurestaticapps.net/
-**project demo video link** -https://youtu.be/NWzq40ndnOo 
+ **project demo video link** -https://youtu.be/NWzq40ndnOo 
 
 ## Azure technologies used for Project
 
